@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @santiagen25
 - 👀 I’m interested in Java, Javascript, HTML & CSS
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning React-Native
 - 💞️ I’m looking to collaborate on Web Projects
 - 📫 How to reach me santiago.torrabadella@hotmail.com
 
